@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-download",
+  "name": "easton-plugin-download",
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-download",
+    "id": "easton-plugin-download",
     "platforms": []
   },
   "keywords": [
